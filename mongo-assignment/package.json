@@ -1,0 +1,22 @@
+{
+  "name": "mongo-assignment",
+  "version": "1.0.0",
+  "description": "assignment five mongo assignment cs3200 fall 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcui2001/A5cs3200F20.git"
+  },
+  "author": "jeremycui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcui2001/A5cs3200F20/issues"
+  },
+  "homepage": "https://github.com/jcui2001/A5cs3200F20#readme",
+  "dependencies": {
+    "mongoose": "^5.11.8"
+  }
+}
